@@ -1,37 +1,20 @@
 # 📍 Smart Location Tracker
 
-A React Native mobile application for real-time location tracking using Google Maps API and Firebase.
+A mobile application built using React Native for real-time location tracking.
 
 ## 🚀 Features
-- 📍 Real-time location tracking
-- 🗺️ Google Maps integration
-- 🔐 Firebase Authentication
-- ⭐ Save favorite locations
-- 📡 Live data sync with Firebase
+- Real-time location tracking
+- Google Maps integration
+- Firebase database support
+- User-friendly interface
 
 ## 🛠️ Tech Stack
 - React Native
-- Firebase (Authentication & Realtime Database)
+- Firebase
 - Google Maps API
 
-## 📱 Screens
-- Login Screen
-- Map View
-- Dashboard
-
-## 🔧 Setup Instructions
-1. Clone the repository
-2. Install dependencies using `npm install`
-3. Add your Google Maps API key
-4. Run the app using `npx react-native run-android`
-
-## 📌 Future Improvements
-- Route optimization
-- Nearby places suggestions
-- UI enhancements
-
----
+## 📱 Project Status
+🚧 Under Development
 
 ## 👨‍💻 Author
-Darshan S# smart-location-tracker01
-React Native app for real-time location tracking using Google Maps API and Firebase
+Darshan S
